@@ -1,5 +1,5 @@
 ### Description
-Given the choice of CHICK diet, the birth weight and age of the chicken, this application can be used to calculate the projected weight of chicken at the given age. The program uses a linear regression model built from the **ChickWeight** Dataset. This dataset is distributed with the R 3.1.2.
+Given the choice of CHICKEN diet, the birth weight and age of the chicken, this application can be used to calculate the projected weight of chicken at the given age. The program uses a linear regression model built from the **ChickWeight** Dataset. This dataset is distributed with the R 3.1.2.
 
 The application has two panels: On the left panel you need to enter/specify the inputs. These include - **choice of diet** , **the weight (in grams) of the chicken at birth**, and the **age (in days**.  The right panel shows the output - **projected weight**
 
